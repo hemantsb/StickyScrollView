@@ -1,6 +1,10 @@
 # StickyScrollView
 Sticky header and footer for android ScrollView.
 
+## Update 
+Upgraded to kotlin
+Fixed scroll issue with Recycler view 
+
 ### Install
 
 Add jitpack to your root `build.gradle`
